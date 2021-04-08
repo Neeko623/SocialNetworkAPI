@@ -14,25 +14,21 @@ This walkthrough video shows:
 - PUT route for updating a user in the database
 - DELETE route to delete users from the database
 
-
-This walkthrough video shows:
 ![](Public/GETthoughts.gif)
 - POST route for creating a thought in the database
 - PUT route for updating a thought in the database
 - DELETE route to delete a thought from the database
 
-
-This walkthrough video shows:
 ![](Public/GETreactions.gif)
 - POST route to create a reaction
 - DELETE route to delete a reaction
 
-This walkthrough video shows:
 ![](Public/GETfriends.gif)
 - POST route for adding a friend to a user's friend list
 - DELETE route for deleting a friend from a user's friend list
 
-Please view full video here : 
+Please view full video here:
+
 ![SOCIALNETWORKAPI]()
 
 ## Questions
