@@ -23,7 +23,7 @@ This walkthrough video shows:
 - POST route to create a reaction
 - DELETE route to delete a reaction
 
-![](Public/GETfriends.gif)
+![](Public/GETfriend.gif)
 - POST route for adding a friend to a user's friend list
 - DELETE route for deleting a friend from a user's friend list
 
