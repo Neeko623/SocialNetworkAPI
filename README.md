@@ -29,7 +29,7 @@ This walkthrough video shows:
 
 Please view full video here:
 
-![SOCIALNETWORKAPI](https://drive.google.com/file/d/1cgmgcs_zTIuD2rI7lerRDhqqr6QJbi83/view?usp=sharing)
+[SOCIALNETWORKAPI](https://drive.google.com/file/d/1cgmgcs_zTIuD2rI7lerRDhqqr6QJbi83/view?usp=sharing)
 
 ## Questions
 Contact email: NEEKO_TVXQ@HOTMAIL.COM
